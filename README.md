@@ -12,3 +12,9 @@ High solar activity tends to cause high F10.7 values, which indicate high levels
 **Standard F10.7 Values**
 
 The range of F10.7 values can be from as low as 70 sfu (solar flux units) to as high as 200 sfu. The low values indicate quiet sun with no or less solar flares etc. And high values indicate an active sun with large amount of flares etc. The lower F10.7 index could be related to the sun being in a solar minimum and the higher values can be related to the Sun being in a solar maximum. 
+
+*Statistical Analysis 
+
+ Line plot for seeing trend in oberved or measured flux data from 1947 to 2023. The line plot shows a trend as followed by a 11.5 avergae solar cycle, with solar maximum peaks and solar minimum troughs. 
+
+ Box plot foe forecast verification amtrix. This plot records the 3 days flux prediction values from NOAA to compare with observed for that day.
